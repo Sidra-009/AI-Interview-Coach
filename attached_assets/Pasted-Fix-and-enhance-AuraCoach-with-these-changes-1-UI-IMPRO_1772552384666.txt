@@ -1,0 +1,68 @@
+Fix and enhance AuraCoach with these changes:
+
+1. UI IMPROVEMENTS:
+   - Gradient background (dark blue to purple)
+   - Glassmorphism cards (blur + transparency)
+   - More spacing between elements
+   - Smooth hover animations
+   - Mobile responsive
+
+2. QUESTION TYPES FOR SOFTWARE ENGINEERS:
+   - Technical (Theory concepts)
+   - Coding (LeetCode-style problems)
+   - Behavioral (STAR method)
+   - System Design
+   - Difficulty filter (Easy/Medium/Hard)
+
+3. VOICE + TEXT TOGGLE FOR EVERY QUESTION:
+   - User can CHOOSE: Speak answer OR Write answer
+   - Mic button for voice input
+   - Text area for written answers
+   - Real-time voice transcription
+   - "Listen" button for each question:
+     * Click to hear question aloud
+     * Text-to-speech for users who prefer listening
+     * Saves time from reading long questions
+     * Great for auditory learners
+
+4. INTERVIEW FLOW:
+   - Progress bar (current/total questions)
+   - Timer for coding questions (countdown)
+   - After each answer → instant AI feedback:
+     * Score (0-100)
+     * What was good (3 points)
+     * What to improve (3 points)
+     * Ideal answer example
+   - Save answer history locally
+   - Skip option with reason dropdown
+   - Bookmark tough questions for later
+
+5. RESULTS PAGE:
+   - Overall score with donut chart
+   - Category breakdown:
+     * Coding: X%
+     * Theory: X%
+     * Behavioral: X%
+     * System Design: X%
+   - Strengths analysis (topics you did well)
+   - Weakness analysis (areas to improve)
+   - Personalized study resources:
+     * YouTube tutorials
+     * Articles to read
+     * Practice questions
+   - Download report as PDF
+   - Share results button
+
+6. BACKEND:
+   - OpenAI GPT-4 for question generation
+   - Answer evaluation with scoring
+   - Personalized feedback generation
+   - Code execution sandbox for coding questions
+
+7. ACCESSIBILITY:
+   - Dark/light mode toggle
+   - Font size adjuster
+   - High contrast option
+   - Keyboard navigation
+
+Make everything smooth, professional, and user-friendly.
