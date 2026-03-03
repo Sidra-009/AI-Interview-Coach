@@ -1,18 +1,6 @@
-````markdown
 # 🧠✨ AuraCoach — AI Interview Coach
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Built%20For-GDG%20Live%20Pakistan-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Frontend-React%20%2B%20Vite-61DAFB?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=node.js" />
-  <img src="https://img.shields.io/badge/Database-Drizzle%20ORM-ff7a18?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Styling-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss" />
-  <img src="https://img.shields.io/badge/AI-OpenAI-412991?style=for-the-badge&logo=openai" />
-</p>
-
-<p align="center">
-  🚀 Built overnight at <b>GDG Live Pakistan — Vibe Coding Till Sehri</b>
-</p>
+🚀 Built overnight at **GDG Live Pakistan — Vibe Coding Till Sehri**
 
 ---
 
@@ -81,15 +69,13 @@ It’s like having a personal AI interviewer available 24/7.
 
 # 🛠 Tech Stack
 
-| Layer | Technology |
-|-------|------------|
-| Frontend | React + Vite + TypeScript |
-| Backend | Node.js |
-| Database | PostgreSQL + Drizzle ORM |
-| Styling | TailwindCSS + ShadCN UI |
-| AI Integration | OpenAI API |
-| Audio Handling | Custom Voice Hooks + Streaming |
-| Deployment | Replit |
+- **Frontend:** React + Vite + TypeScript  
+- **Backend:** Node.js  
+- **Database:** PostgreSQL + Drizzle ORM  
+- **Styling:** TailwindCSS + ShadCN UI  
+- **AI Integration:** OpenAI API  
+- **Audio Handling:** Custom Voice Hooks + Streaming  
+- **Deployment:** Replit  
 
 ---
 
@@ -99,14 +85,14 @@ AuraCoach was built in one intense overnight sprint during:
 
 🎉 **GDG Live Pakistan — "Vibe Coding Till Sehri" Hackathon**
 
-From idea → UI → backend → AI integration
+From idea → UI → backend → AI integration  
 All built before Sehri 🌙
 
 The goal was simple:
 
-> Build something real.
-> Something students can actually use.
-> Something impactful.
+> Build something real.  
+> Something students can actually use.  
+> Something impactful.  
 
 Instead of another generic AI demo, we built a **real interview simulator** that solves a real student problem.
 
@@ -116,11 +102,11 @@ And AuraCoach was born.
 
 # 🚀 Future Improvements
 
-* 📈 AI-powered performance analytics dashboard
-* 🎯 Personalized improvement roadmap
-* 🌍 Multi-language support
-* 📱 Fully optimized mobile experience
-* 🧠 Emotion & tone analysis
+- 📈 AI-powered performance analytics dashboard  
+- 🎯 Personalized improvement roadmap  
+- 🌍 Multi-language support  
+- 📱 Fully optimized mobile experience  
+- 🧠 Emotion & tone analysis  
 
 ---
 
@@ -128,10 +114,10 @@ And AuraCoach was born.
 
 Contributions are welcome!
 
-1. Fork the repo
-2. Create a new branch
-3. Make your changes
-4. Submit a PR
+1. Fork the repo  
+2. Create a new branch  
+3. Make your changes  
+4. Submit a PR  
 
 Let’s make interview prep smarter together.
 
@@ -141,15 +127,15 @@ Let’s make interview prep smarter together.
 
 If you found this useful:
 
-* ⭐ Star the repository
-* 🔁 Share with friends
-* 💬 Give feedback
+- ⭐ Star the repository  
+- 🔁 Share with friends  
+- 💬 Give feedback  
 
 ---
 
 # 🧠 Final Thought
 
-> Interviews shouldn’t feel unpredictable.
+> Interviews shouldn’t feel unpredictable.  
 > With the right practice, they become structured and conquerable.
 
 AuraCoach helps you walk into interviews with confidence — not fear.
@@ -157,6 +143,3 @@ AuraCoach helps you walk into interviews with confidence — not fear.
 ---
 
 ✨ Built with caffeine, passion, and midnight vibes.
-
-```
-```
